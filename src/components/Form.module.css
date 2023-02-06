@@ -1,0 +1,26 @@
+.form {
+  max-width: 800px;
+  margin: auto;
+  padding: 0 1rem;
+}
+
+.form p {
+  margin: 0;
+}
+
+.label {
+  display: block;
+}
+
+.block {
+  margin-bottom: 1.5rem;
+}
+
+textarea {
+  width: 100%;
+}
+
+.error {
+  color: red;
+  margin-top: 1.5rem;
+}
